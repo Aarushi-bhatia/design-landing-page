@@ -1,1 +1,1 @@
-![Project Logo](/image.png)
+![Project Logo](assets/image.png)
